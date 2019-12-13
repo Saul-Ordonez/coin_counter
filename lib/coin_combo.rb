@@ -44,16 +44,3 @@ class CoinCombo
     final_answer
   end
 end
-
-
-
-# puts pastel.blue(font.write("Enter your name:", letter_sizing: 4))
-# name_input = gets.chomp
-# puts pastel.blue(font.write("Enter a number:"))
-# number_input = gets.to_i
-#
-# coin_combo = CoinCombo.new(number_input)
-# puts pastel.red(font.write(name_input + " has:"))
-# final_answer = coin_combo.coin_counter()
-#
-# puts pastel.red(font.write(final_answer))
